@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AR Shooting</string>
+    <string name="balloons_left">Balloons  left : 20</string>
+    <string name="shoot">Shoot</string>
+</resources>

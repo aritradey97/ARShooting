@@ -1,0 +1,43 @@
+{
+  materials: [
+    {
+      name: 'green',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.17043800000000001,
+            0.67512700000000003,
+            0.030842999999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Balloon.obj',
+    name: 'Balloon',
+    recenter: 'root',
+    scale: 0.0059309999999999996,
+  },
+  version: '0.54:2',
+}
